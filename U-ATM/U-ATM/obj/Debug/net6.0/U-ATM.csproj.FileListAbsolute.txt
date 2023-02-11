@@ -1,0 +1,15 @@
+C:\Users\aayan\source\repos\U-ATM\U-ATM\bin\Debug\net6.0\U-ATM.exe
+C:\Users\aayan\source\repos\U-ATM\U-ATM\bin\Debug\net6.0\U-ATM.deps.json
+C:\Users\aayan\source\repos\U-ATM\U-ATM\bin\Debug\net6.0\U-ATM.runtimeconfig.json
+C:\Users\aayan\source\repos\U-ATM\U-ATM\bin\Debug\net6.0\U-ATM.dll
+C:\Users\aayan\source\repos\U-ATM\U-ATM\bin\Debug\net6.0\U-ATM.pdb
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.csproj.AssemblyReference.cache
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.AssemblyInfoInputs.cache
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.AssemblyInfo.cs
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.csproj.CoreCompileInputs.cache
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.dll
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\refint\U-ATM.dll
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.pdb
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\U-ATM.genruntimeconfig.cache
+C:\Users\aayan\source\repos\U-ATM\U-ATM\obj\Debug\net6.0\ref\U-ATM.dll
